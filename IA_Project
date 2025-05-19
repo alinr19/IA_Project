@@ -1,0 +1,1 @@
+Proiectul propune realizarea unei aplicații în Python pentru vizualizarea strategiilor de căutare informată și neinformată într-un labirint. Acest proiect este conceput pentru a demonstra cum diverse algoritmi de căutare explorează și navighează printr-un mediu complex, cum ar fi un labirint generat aleator.
